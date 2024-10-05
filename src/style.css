@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.pintas {
+  font-size: 80px;
+}
+
+.cardValue {
+  font-size: 90px;
+}
+
+.transform {
+  transform: rotate(180deg);
+}
